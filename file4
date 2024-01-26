@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple HTML Layout</title>
+    <title> HTML Layout</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -67,51 +67,43 @@
     </nav>
     <div>
         <img src="profile.jpg" alt="Profile Image" style="width: 50px; height: 50px; border-radius: 50%;">
-        <span>John Doe</span>
+        <span>Raji Simha</span>
     </div>
 </header>
 
 <main>
     <section id="home">
         <h2>Home</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vitae turpis dictum pretium.</p>
         <nav>
             <a href="#section1">Section 1</a>
             <a href="#section2">Section 2</a>
             <a href="#section3">Section 3</a>
         </nav>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vitae turpis dictum pretium.</p>
         <button class="top-button" onclick="goToTop()">Go to Top</button>
     </section>
 
     <section id="about">
         <h2>About</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vitae turpis dictum pretium.</p>
     </section>
 
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vitae turpis dictum pretium.</p>
     </section>
 
     <section id="products">
         <h2>Products</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vitae turpis dictum pretium.</p>
     </section>
 
     <section id="section1">
         <h2>Section 1</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vitae turpis dictum pretium.</p>
     </section>
 
     <section id="section2">
         <h2>Section 2</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vitae turpis dictum pretium.</p>
     </section>
 
     <section id="section3">
         <h2>Section 3</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vitae turpis dictum pretium.</p>
     </section>
 </main>
 
